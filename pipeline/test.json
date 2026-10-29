@@ -47,7 +47,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "LS_ADLS_Parquet",
+						"referenceName": "DS_ADLS_Parquet",
 						"type": "DatasetReference",
 						"parameters": {
 							"container": "landing",
